@@ -42,6 +42,9 @@ Pivot Table Overview
 
 Sales Trend Graph
 
+![Alt Text](https://github.com/Rituraj1008/Mini-Project-BA/blob/main/Screenshot%202024-10-28%20001621.png
+)
+
+
 ![Alt Text](https://github.com/Rituraj1008/Mini-Project-BA/blob/main/Screenshot%202024-10-27%20235458.png
 )
-https://github.com/Rituraj1008/Mini-Project-BA/blob/main/Screenshot%202024-10-27%20235458.png
