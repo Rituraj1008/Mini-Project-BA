@@ -37,7 +37,7 @@ Below are some screenshots that showcase the final outputs of the analysis:
 
 Pivot Table Overview
 
-![Alt Text](url_or_path_to_image)
+![Alt Text](https://github.com/Rituraj1008/Mini-Project-BA/blob/main/Screenshot%202024-10-27%20235728.png)
 
 
 Sales Trend Graph
